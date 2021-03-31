@@ -15,6 +15,12 @@ main {
   height: 100%;
 }
 
+#info {
+  color: red;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
 #image {
   position: absolute;
   height: 100%;
